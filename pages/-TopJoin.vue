@@ -25,6 +25,7 @@ export default {
         text-align: center;
         height: 560px;
         color: #FFFFFF;
+        width: 100%;
     }
     .p-join h1 {
         padding-top: 50px;

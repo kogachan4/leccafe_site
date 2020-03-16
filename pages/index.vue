@@ -39,7 +39,7 @@
 <style lang="scss" scoped>
     @import "../assets/scss/mixins/container.scss";
     @import "../assets/scss/component/button.scss";
-    .p-container {
-        @include container();
-    }
+    // .p-container {
+    //     @include container();
+    // }
 </style>
